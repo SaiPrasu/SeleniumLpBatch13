@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[automation
+automation anywhere
+automation meaning
+automation testing
+automation meaning in telugu
+automation testing interview questions
+automation tools
+automation anywhere university
+automation engineer
+automation anywhere cannot work with
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[selenium
+selenium testing
+selenium download
+selenium webdriver
+selenium tutorial
+seleniumhq
+selenium interview questions for experienced
+selenium ide
+selenium rich foods
+selenium automation testing
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[test match
+test
+testbook
+test championship
+test match live
+testosterone
+test ranking
+test championship final
+testicles
+test ranking batsman
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[testng annotations
+testng
+testng framework
+testng maven dependency
+testng interview questions
+testng tutorial
+testng annotations order
+testng jar download
+testng listeners
+testng download
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[maven repository
+maven
+Maventic Innovative Solutions Pvt Ltd.
+Software company · Bengaluru, Karnataka
+maven interview questions
+maven download
+maven lifecycle
+maven central repository
+maven commands
+mavenir bangalore
+Mavenir Systems Private Limited · Bengaluru, Karnataka
+Maven Silicon VLSI Training Center
+Training centre · Bengaluru, Karnataka
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[javatpoint
+java
+javascript
+java online compiler
+java interview questions
+java compiler
+java tutorial
+java download
+javascript interview questions
+java jdk download
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[python
+python online compiler
+python download
+python tutorial
+python interview questions
+python compiler
+python programming
+python for beginners
+python tutor
+python javatpoint
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+    <line>
+      <![CDATA[Total no. of items loaded are :1]]>
+    </line>
+    <line>
+      <![CDATA[facebook
+facebook login
+facebook video download
+facebook download
+facebook lite
+facebook app
+facebook account hacked
+facebook search
+facebook share price
+facebook account
+Report inappropriate predictions]]>
+    </line>
+    <line>
+      <![CDATA[Google]]>
+    </line>
+    <line>
+      <![CDATA[Test is failed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-05T14:51:07 IST" name="Test automation" finished-at="2021-03-05T14:52:13 IST" duration-ms="65888">
+    <groups>
+    </groups>
+    <test started-at="2021-03-05T14:51:07 IST" name="Functional testing on Google" finished-at="2021-03-05T14:52:13 IST" duration-ms="65888">
+      <class name="com.qa.testscript.AutoSuggestScript">
+        <test-method is-config="true" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:07 IST" name="setUp" finished-at="2021-03-05T14:51:16 IST" duration-ms="8723" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:17 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:23 IST" duration-ms="5888" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:23 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:29 IST" duration-ms="5444" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[automation
+automation anywhere
+automation meaning
+automation testing
+automation meaning in telugu
+automation testing interview questions
+automation tools
+automation anywhere university
+automation engineer
+automation anywhere cannot work with
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:29 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:34 IST" duration-ms="5330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[selenium
+selenium testing
+selenium download
+selenium webdriver
+selenium tutorial
+seleniumhq
+selenium interview questions for experienced
+selenium ide
+selenium rich foods
+selenium automation testing
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:34 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:39 IST" duration-ms="5343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testng]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[test match
+test
+testbook
+test championship
+test match live
+testosterone
+test ranking
+test championship final
+testicles
+test ranking batsman
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:39 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:45 IST" duration-ms="5332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maven]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[testng annotations
+testng
+testng framework
+testng maven dependency
+testng interview questions
+testng tutorial
+testng annotations order
+testng jar download
+testng listeners
+testng download
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:45 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:50 IST" duration-ms="5303" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[maven repository
+maven
+Maventic Innovative Solutions Pvt Ltd.
+Software company · Bengaluru, Karnataka
+maven interview questions
+maven download
+maven lifecycle
+maven central repository
+maven commands
+mavenir bangalore
+Mavenir Systems Private Limited · Bengaluru, Karnataka
+Maven Silicon VLSI Training Center
+Training centre · Bengaluru, Karnataka
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:50 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:51:55 IST" duration-ms="5338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[python]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[javatpoint
+java
+javascript
+java online compiler
+java interview questions
+java compiler
+java tutorial
+java download
+javascript interview questions
+java jdk download
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:51:55 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:52:01 IST" duration-ms="5318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[facebook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[python
+python online compiler
+python download
+python tutorial
+python interview questions
+python compiler
+python programming
+python for beginners
+python tutor
+python javatpoint
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method signature="searchItem(java.lang.String)[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:52:01 IST" name="searchItem" data-provider="getData" finished-at="2021-03-05T14:52:06 IST" duration-ms="5289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[insta]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Total no. of items loaded are :1]]>
+            </line>
+            <line>
+              <![CDATA[facebook
+facebook login
+facebook video download
+facebook download
+facebook lite
+facebook app
+facebook account hacked
+facebook search
+facebook share price
+facebook account
+Report inappropriate predictions]]>
+            </line>
+            <line>
+              <![CDATA[Google]]>
+            </line>
+            <line>
+              <![CDATA[Test is failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchItem -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testscript.AutoSuggestScript@306f16f3]" started-at="2021-03-05T14:52:06 IST" name="tearDown" finished-at="2021-03-05T14:52:13 IST" duration-ms="6931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testscript.AutoSuggestScript -->
+    </test> <!-- Functional testing on Google -->
+  </suite> <!-- Test automation -->
+</testng-results>
